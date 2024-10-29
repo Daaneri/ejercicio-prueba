@@ -1,0 +1,30 @@
+header{
+    Background-color: rgba(37, 154, 221, 0.521);
+    font-family: italic;
+    text-align: center;
+    
+}
+body{
+    Background-color:skyblue;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+footer{
+    Background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+p{
+    Background-color: rgba(37, 154, 221, 0.521);
+    
+}
+h3{
+    Background-color:skyblue;
+}
+h4{
+    Background-color: rgba(37, 154, 221, 0.521);
+}
+nav{
+    Background-image:url(https://img.freepik.com/vector-gratis/fondo-galaxia-realista_23-2148991322.jpg)
+}
+ 
